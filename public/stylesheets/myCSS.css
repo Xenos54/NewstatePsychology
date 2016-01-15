@@ -1,0 +1,18 @@
+body {
+    background: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 105%;
+}
+
+a {
+    color: #3366ff;
+    font-size: 133%;
+    text-decoration: none;
+}
+
+.jumbotron{
+  background-color: #ffffff;
+}
